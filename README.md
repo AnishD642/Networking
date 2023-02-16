@@ -4,4 +4,6 @@ Includes :<br/>
 <ul>
 <li>Router Configurations</li>
 <li>Static and Dynamic Routing</li>
-<li>HTTP, FTP, SMTP AND 
+<li>HTTP, FTP, SMTP and DNS Server Configurations</li>
+using CISCO Packet Tracer.<br/>
+Also Includes demonstrations on Wireshark.
